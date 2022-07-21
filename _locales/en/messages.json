@@ -1,0 +1,18 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Quick access to anything."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Quick Access Extension"
+   },
+   "appShortName": {
+      "description": "The short name of the application",
+      "message": "Quick access to anything."
+   },
+   "title": {
+      "description": "Default title",
+      "message": "Quick Access Extension"
+   }
+}
